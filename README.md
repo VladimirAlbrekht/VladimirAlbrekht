@@ -17,7 +17,7 @@
 ---------------------------
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40your--instagram--account-orange)](https://www.instagram.com/your-instagram-account/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-your--whatsapp--number-brightgreen)](https://wa.me/your-whatsapp-number)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen)](https://wa.me/your-whatsapp-number)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--page-blue)](https://www.linkedin.com/in/your-linkedin-page/)
 [![Email]](mailto:youremail@example.com)
 
