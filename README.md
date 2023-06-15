@@ -18,7 +18,7 @@
 
 [![linkedin](https://user-images.githubusercontent.com/70646350/119327365-9028c880-bc8b-11eb-868d-6c4ac31869cc.png)](https://www.linkedin.com/in/your-linkedin-page);
 [![mail](https://user-images.githubusercontent.com/70646350/119327365-9028c880-bc8b-11eb-868d-6c4ac31869cc.png)](mailto:vladimir_albreht@mail.ru);
-[![instagram](https://user-images.githubusercontent.com/70646350/119327365-9028c880-bc8b-11eb-868d-6c4ac31869cc.png)](https://www.instagram.com/albrechtvladimir);
+[![instagram](https://user-images.githubusercontent.com/70646350/119328664-5bb08c00-bc8d-11eb-8dc6-6c74b40cb78c.png)](https://www.instagram.com/albrechtvladimir);
 [![whatsapp](https://user-images.githubusercontent.com/70646350/119327478-b189b480-bc8b-11eb-8897-22dbd8a529ad.png)](https://wa.me/8613521697721);
 
 
