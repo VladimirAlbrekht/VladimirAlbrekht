@@ -11,16 +11,15 @@
 #### Мой стек:
 | ![icons8-javascript-26](https://user-images.githubusercontent.com/70646350/119318720-4f788180-bc82-11eb-87ff-8201ce9d61c8.png) **`JavaScript`** | ![icons8-html-5-26](https://user-images.githubusercontent.com/70646350/119315541-9cf2ef80-bc7e-11eb-8f46-ef3766162ab6.png) **`HTML`** | ![icons8-css3-26](https://user-images.githubusercontent.com/70646350/119316006-1be82800-bc7f-11eb-8166-910c027cd18f.png) **`CSS`** | ![icons8-react-26](https://user-images.githubusercontent.com/70646350/119316439-a0d34180-bc7f-11eb-9a36-e79d2b093d69.png) **`React`** |
 | --- | --- | --- | --- |
-| ![icons8-rest-api-26](https://user-images.githubusercontent.com/70646350/119323556-7e452680-bc87-11eb-9cd2-fc2293869858.png) **`REST API`** | <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="SCSS icon" width="50"> **`SCSS`** | ![mongodb_original_logo_icon_146424](https://user-images.githubusercontent.com/70646350/119320033-ceba8500-bc83-11eb-9455-537f415c9fe1.png) **`mongoDB`**|![pngwing com](https://user-images.githubusercontent.com/70646350/119322690-8bade100-bc86-11eb-9660-cbfee5afd4a5.png)**`express.js`** |
+| ![icons8-rest-api-26](https://user-images.githubusercontent.com/70646350/119323556-7e452680-bc87-11eb-9cd2-fc2293869858.png) **`REST API`** | <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="SCSS icon" width="30" height="40"> **`SCSS`** | ![mongodb_original_logo_icon_146424](https://user-images.githubusercontent.com/70646350/119320033-ceba8500-bc83-11eb-9455-537f415c9fe1.png) **`mongoDB`**|![pngwing com](https://user-images.githubusercontent.com/70646350/119322690-8bade100-bc86-11eb-9660-cbfee5afd4a5.png)**`express.js`** |
 | ![icons8-git-26](https://user-images.githubusercontent.com/70646350/119321913-cc592a80-bc85-11eb-9540-8605bd48f3f7.png) **`git`**| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="30" height="40"/>**`NodeJS`**| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="nodejs" alt="figma" width="30" height="40"/>**`Figma`**|  |
 
 ---------------------------
 
-[![linkedin](https://user-images.githubusercontent.com/70646350/119327365-9028c880-bc8b-11eb-868d-6c4ac31869cc.png)](https://www.linkedin.com/in/your-linkedin-page);
-[![mail](https://user-images.githubusercontent.com/70646350/119327365-9028c880-bc8b-11eb-868d-6c4ac31869cc.png)](mailto:vladimir_albreht@mail.ru);
-[![instagram](https://user-images.githubusercontent.com/70646350/119328664-5bb08c00-bc8d-11eb-8dc6-6c74b40cb78c.png)](https://www.instagram.com/albrechtvladimir);
-[![whatsapp](https://user-images.githubusercontent.com/70646350/119327478-b189b480-bc8b-11eb-8897-22dbd8a529ad.png)](https://wa.me/8613521697721);
-
+[![Instagram](https://img.shields.io/badge/Instagram-%40your--instagram--account-orange)](https://www.instagram.com/albrechtvladimir/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-your--whatsapp--number-brightgreen)](https://wa.me/8613521697721)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--page-blue)](https://www.linkedin.com/in/your-linkedin-page/)
+[![Email](https://img.shields.io/badge/Email-youremail%40example.com-red)](mailto:vladimir_albreht@mail.ru)
 
 ---------------------------
 
