@@ -16,10 +16,10 @@
 
 ---------------------------
 
-[![Instagram](https://img.shields.io/badge/albrechtvladimir)](https://www.instagram.com/albrechtvladimir/)
-[![WhatsApp](https://img.shields.io/badge/+8613521697721)](https://wa.me/8613521697721)
-[![LinkedIn](https://img.shields.io/badge/)](https://www.linkedin.com/in/your-linkedin-page/)
-[![Email](https://img.shields.io/badge/vladimir_albreht@mail.ri)](mailto:vladimir_albreht@mail.ru)
+[!(https://img.shields.io/badge/Instagram-%40your--instagram--account-orange)](https://www.instagram.com/your-instagram-account/)
+[!(https://img.shields.io/badge/WhatsApp-your--whatsapp--number-brightgreen)](https://wa.me/your-whatsapp-number)
+[!(https://img.shields.io/badge/LinkedIn-your--linkedin--page-blue)](https://www.linkedin.com/in/your-linkedin-page/)
+[!(https://img.shields.io/badge/Email-youremail%40example.com-red)](mailto:youremail@example.com)
 
 ---------------------------
 
