@@ -16,10 +16,10 @@
 
 ---------------------------
 
-[!(https://img.shields.io/badge/Instagram-%40your--instagram--account-orange)](https://www.instagram.com/your-instagram-account/)
-[!(https://img.shields.io/badge/WhatsApp-your--whatsapp--number-brightgreen)](https://wa.me/your-whatsapp-number)
-[!(https://img.shields.io/badge/LinkedIn-your--linkedin--page-blue)](https://www.linkedin.com/in/your-linkedin-page/)
-[!(https://img.shields.io/badge/Email-youremail%40example.com-red)](mailto:youremail@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40your--instagram--account-orange)](https://www.instagram.com/your-instagram-account/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-your--whatsapp--number-brightgreen)](https://wa.me/your-whatsapp-number)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--page-blue)](https://www.linkedin.com/in/your-linkedin-page/)
+[![Email]](mailto:youremail@example.com)
 
 ---------------------------
 
